@@ -5,7 +5,7 @@ An npm module that helps you trimming text and adding tailing characters. Ex: He
 ## Usage
 
 ```ts
-import { trim } from 'text-trimmer';
+import { trim } from '@owsas/text-trimmer';
 
 // Trimming by number of words
 const result = trim('This module helps trimming texts', { numWords: 3 });
