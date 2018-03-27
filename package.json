@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/owsas/text-trim.git"
+    "url": "git+https://github.com/owsas/text-trimmer.git"
   },
   "bugs": {
-    "url": "https://github.com/owsas/text-trim/issues"
+    "url": "https://github.com/owsas/text-trimmer/issues"
   },
-  "homepage": "https://github.com/owsas/text-trim#readme",
+  "homepage": "https://github.com/owsas/text-trimmer#readme",
   "directories": {
     "test": "test"
   }
