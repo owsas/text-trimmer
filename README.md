@@ -1,3 +1,4 @@
+# Moved to new monorepo strategy: https://github.com/owsas/opensource
 # text-trimmer
 
 An npm module that helps you trimming text and adding tailing characters. Ex: Hello, my name...
